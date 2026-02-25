@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Scaling AI with Web Workers",
+    "speakers": ["Alice Johnson", "Bob Smith"],
+    "categories": ["Performance", "AI"],
+    "duration": 60,
+    "description": "Learn how to offload heavy AI computations from the main thread using modern Web Workers for a smoother user experience."
+  },
+  {
+    "id": 2,
+    "title": "Designing Intuitive Design Systems",
+    "speakers": ["Charlie Brown"],
+    "categories": ["Design", "UI/UX"],
+    "duration": 60,
+    "description": "Explore the principles of building scalable and reusable design systems that both designers and developers love."
+  },
+  {
+    "id": 3,
+    "title": "Securing Your Node.js APIs",
+    "speakers": ["Dana White", "Eve Rogers"],
+    "categories": ["Security", "Backend"],
+    "duration": 60,
+    "description": "A deep dive into common security pitfalls in Node.js and practical strategies to protect your APIs from real-world threats."
+  },
+  {
+    "id": 4,
+    "title": "Mastering CSS Grid Layouts",
+    "speakers": ["Frankie Miller"],
+    "categories": ["CSS", "Frontend"],
+    "duration": 60,
+    "description": "Go beyond the basics of CSS Grid to create complex, responsive layouts with minimal code and maximum flexibility."
+  },
+  {
+    "id": 5,
+    "title": "Introduction to Rust for JS Developers",
+    "speakers": ["Grace Hopper"],
+    "categories": ["Rust", "Performance"],
+    "duration": 60,
+    "description": "See why JavaScript developers are moving to Rust for high-performance tasks and how to get started with your first Rust project."
+  },
+  {
+    "id": 6,
+    "title": "Observability in Microservices",
+    "speakers": ["Hank Hill", "Ivy Lee"],
+    "categories": ["DevOps", "Cloud"],
+    "duration": 60,
+    "description": "Discover how to track and debug complex interactions in a microservices architecture using modern observability tools."
+  }
+]
